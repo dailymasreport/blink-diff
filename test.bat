@@ -1,0 +1,1 @@
+node blinkdiff.js "InputImages" "TestImages" "OutputImages"

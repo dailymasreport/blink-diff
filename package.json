@@ -1,0 +1,16 @@
+{
+  "name": "blinkdiff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blinkDiff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+   "dependencies": {
+    "fs": "",
+    "request" : "^2.49.0",
+    "blink-diff": ""
+  }
+}
